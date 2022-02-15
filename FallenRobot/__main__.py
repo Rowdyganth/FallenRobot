@@ -80,7 +80,7 @@ PM_START_TEXT = """
 buttons = [
     [
         InlineKeyboardButton(
-            text="🥺 ᴀᴅᴅ ᴍᴇ  🥺", url="t.me/Ammu_DS_bot?startgroup=true"),
+            text="🥺 ᴀᴅᴅ ᴍᴇ  🥺", url="t.me/ammudsbot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(text="� яємσ 😍​", url="https://t.me/remo_editz"),
@@ -88,20 +88,20 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="🤔 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ 🤔", url="https://t.me/Ammu_DS_bot"),
+            text="🤔 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ 🤔", url="https://t.me/ammudsbot"),
         InlineKeyboardButton(
             text="😘 sᴜᴘᴘᴏʀᴛ 😘", url="https://t.me/remo_editz"
         ),
     ],
 ]
-
+/
 FallenRobot_IMG = "https://te.legra.ph/file/90ca17d013f215351d0e1.jpg"
 
 HELP_STRINGS = """
 *αммυ​ вσт ᴇxᴄʟᴜsɪᴠᴇ ꜰᴇᴀᴛᴜʀᴇs\n ᴄʜᴇᴄᴋᴏᴜᴛ ᴀʟʟ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅs\n» ᴀʟʟ ᴏꜰ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ / ᴏʀ !\n» ɪꜰ ʏᴏᴜ ɢᴏᴛ ᴀɴʏ ɪssᴜᴇ ᴏʀ ʙᴜɢ ɪɴ ᴀɴʏ ᴄᴏᴍᴍᴀɴᴅ ᴘʟᴇᴀsᴇ ʀᴇᴘᴏʀᴛ ɪᴛ ᴛᴏ @badboybiografia*"""
 
 
-DONATE_STRING = """[𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦 🖤 𝗕𝗢𝗬](t.me/Ammu_DS_bot)"""
+DONATE_STRING = """[𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦 🖤 𝗕𝗢𝗬](t.me/ammudsbot)"""
 
 IMPORTED = {}
 MIGRATEABLE = []
