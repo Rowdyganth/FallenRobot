@@ -94,7 +94,7 @@ buttons = [
         ),
     ],
 ]
-/
+
 FallenRobot_IMG = "https://te.legra.ph/file/90ca17d013f215351d0e1.jpg"
 
 HELP_STRINGS = """
