@@ -90,7 +90,7 @@ buttons = [
         InlineKeyboardButton(
             text="⚒F𝔼𝐃𝐋๏₲", url="https://t.me/Desapticonsfed_log"),
         InlineKeyboardButton(
-            text="😘 σтнєя вσт 😘", url="https://t.me/TamilYouTubeDownloaderbot"        ),
+            text="οωиєя😜", url="https://t.me/rowdybio"        ),
     ],
 ]
 
