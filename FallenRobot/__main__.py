@@ -74,33 +74,33 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-ʜᴇʏ\n ɪ'ᴍ *Remo_Guard*\nᴛʜᴇ ᴍᴏsᴛ ᴘᴏᴡᴇʀꜰᴜʟ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴏꜰ ᴛᴇʟᴇɢʀᴀᴍ\n  ɪ ʜᴀᴠᴇ ᴀᴡᴇsᴏᴍᴇ ꜰᴇᴀᴛᴜʀᴇs ᴀɴᴅ ɴᴏ ᴏɴᴇ ᴄᴀɴ ʙᴇᴀᴛ ᴍᴇ ꜰᴏʀ ɢᴇᴛᴛɪɴɢ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs /help
+ʜᴇʏ\n ɪ'ᴍ *ᴳᵒᵈ᭄Vision*\nᴛʜᴇ ᴍᴏsᴛ ᴘᴏᴡᴇʀꜰᴜʟ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴏꜰ ᴛᴇʟᴇɢʀᴀᴍ\n  ɪ ʜᴀᴠᴇ ᴀᴡᴇsᴏᴍᴇ ꜰᴇᴀᴛᴜʀᴇs ᴀɴᴅ ɴᴏ ᴏɴᴇ ᴄᴀɴ ʙᴇᴀᴛ ᴍᴇ ꜰᴏʀ ɢᴇᴛᴛɪɴɢ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs /help
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="🥺 ᴀᴅᴅ ᴍᴇ  🥺", url="t.me/ammudsbot?startgroup=true"),
+            text="🥺 ᴀᴅᴅ ᴍᴇ  🥺", url="t.me/Visionwitcher_bot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="� яємσ 😍​", url="https://t.me/remo_editz"),
-        InlineKeyboardButton(text="🎧 ѕтαтυѕ 🎧", url="https://t.me/TamilStatusForGirl"),
+        InlineKeyboardButton(text="ⓒђ𝐚ⓣ", url="https://t.me/tamilchat_tmc1"),
+        InlineKeyboardButton(text="ＴＭＣ ᴳᵒᵈ᭄Vision", url="https://t.me/tmc_godVision"),
     ],
     [
         InlineKeyboardButton(
-            text="🤔 ѕυρρσят вσт 🤔", url="https://t.me/alonelifebot"),
+            text="⚒ F𝔼𝐃 𝐋๏₲", url="https://t.me/Desapticonsfed_log"),
         InlineKeyboardButton(
-            text="😘 σтнєя вσт 😘", url="https://t.me/TamilYouTubeDownloaderbot"        ),
+            text="❦᛭ɱє𝔾么Tяσᚻ", url="https://t.me/rowdybio"        ),
     ],
 ]
 
-FallenRobot_IMG = "https://te.legra.ph/file/90ca17d013f215351d0e1.jpg"
+FallenRobot_IMG = "https://telegra.ph/file/98cb2e6c6c994b8595dd8.jpg"
 
 HELP_STRINGS = """
-*яємσ_gυαя∂ вσт ᴇxᴄʟᴜsɪᴠᴇ ꜰᴇᴀᴛᴜʀᴇs\n ᴄʜᴇᴄᴋᴏᴜᴛ ᴀʟʟ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅs\n» ᴀʟʟ ᴏꜰ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ / ᴏʀ !\n» ɪꜰ ʏᴏᴜ ɢᴏᴛ ᴀɴʏ ɪssᴜᴇ ᴏʀ ʙᴜɢ ɪɴ ᴀɴʏ ᴄᴏᴍᴍᴀɴᴅ ᴘʟᴇᴀsᴇ ʀᴇᴘᴏʀᴛ ɪᴛ ᴛᴏ @badboybiografia*"""
+*ᴳᵒᵈ᭄Vision вσт ᴇxᴄʟᴜsɪᴠᴇ ꜰᴇᴀᴛᴜʀᴇs\n ᴄʜᴇᴄᴋᴏᴜᴛ ᴀʟʟ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅs\n» ᴀʟʟ ᴏꜰ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ / ᴏʀ !\n» ɪꜰ ʏᴏᴜ ɢᴏᴛ ᴀɴʏ ɪssᴜᴇ ᴏʀ ʙᴜɢ ɪɴ ᴀɴʏ ᴄᴏᴍᴍᴀɴᴅ ᴘʟᴇᴀsᴇ ʀᴇᴘᴏʀᴛ ɪᴛ ᴛᴏ @rowdybio*"""
 
 
-DONATE_STRING = """[𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦 🖤 𝗕𝗢𝗬](t.me/ammudsbot)"""
+DONATE_STRING = """[𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦 🖤 𝗕𝗢𝗬](t.me/Visionwitcher_bot)"""
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -373,8 +373,8 @@ def Source_about_callback(update: Update, context: CallbackContext):
     query = update.callback_query
     if query.data == "source_":
         query.message.edit_text(
-            text="""Hey...😘 I'm *яємσ_gυαя∂ вσт*
-                 \nHere is my [Source Code](https://t.me/badboybiografia) .""",
+            text="""Hey...😘 I'm *ᴳᵒᵈ᭄Vision*
+                 \nHere is my [Source Code](https://t.me/rowdybio) .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=False,
             reply_markup=InlineKeyboardMarkup(
