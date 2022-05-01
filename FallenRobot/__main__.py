@@ -83,7 +83,7 @@ buttons = [
             text="🥺 ᴀᴅᴅ ᴍᴇ  🥺", url="t.me/Visionwitcher_bot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="༆ⓒђ𝐚ⓣ༆​", url="https://t.me/tamilchat_tmc1"),
+        InlineKeyboardButton(text="༆ⓒђ𝐚ⓣ༆​", url="https://t.me/tmc_tamilchatting"),
         InlineKeyboardButton(text="ᴳᵒᵈ᭄Vision", url="https://t.me/tmc_godVision"),
     ],
     [
